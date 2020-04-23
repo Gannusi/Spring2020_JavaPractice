@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Library {
 
      // Sort
-    public static int[] sortDesending(int[] arr){
+    public static int[] sortDescending(int[] arr){
         Arrays.sort(arr);  // {1,2,3,4};  ==> {4,3,2,1};
         int[] RevArr = new int[arr.length] ;
 

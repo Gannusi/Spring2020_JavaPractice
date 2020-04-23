@@ -15,7 +15,7 @@ public class Test {
 
         int [] arr = {2, 3, 4,54, 6, 1};
 
-        arr= Library.sortDesending(arr);
+        arr= Library.sortDescending(arr);
         System.out.println(Arrays.toString(arr));
 
 
