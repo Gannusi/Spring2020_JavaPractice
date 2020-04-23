@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74764b1a-3f9a-41d7-889e-a27a6c7ea223" name="Default Changelist" comment="">
+    <list default="true" id="74764b1a-3f9a-41d7-889e-a27a6c7ea223" name="Default Changelist" comment="TestHAnna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.return_method2">
-    <configuration name="Method_OL_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverLoadig.Method_OL_3" />
+  <component name="RunManager" selected="Application.WarmUp_FindMin">
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_22_2020.MethodOverloading" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverLoadig.*" />
+          <option name="PATTERN" value="Office_Hours.Practice_04_22_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_OL_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverLoadig.Method_OL_4" />
+    <configuration name="WarmUp_FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_DateTime.WarmUp_FindMin" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverLoadig.*" />
+          <option name="PATTERN" value="day27_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +81,19 @@
     </configuration>
     <configuration name="return_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_22_2020.return_Method" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Office_Hours.Practice_04_22_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="return_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_22_2020.return_Statement" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="void_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_22_2020.void_Method" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Office_Hours.Practice_04_22_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WarmUp_FindMin" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.return_Statement" />
         <item itemvalue="Application.return_method2" />
         <item itemvalue="Application.return_Method" />
-        <item itemvalue="Application.void_Method" />
-        <item itemvalue="Application.Method_OL_4" />
-        <item itemvalue="Application.Method_OL_3" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587584964084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TestHAnna">
+      <created>1587587671496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587587671496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,49 +193,49 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="68" y="125" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1587155931243" />
-    <state x="490" y="0" key="CommitChangelistDialog2" timestamp="1587584963969">
+    <state x="490" y="0" key="CommitChangelistDialog2" timestamp="1587587688169">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="490" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587584963969" />
+    <state x="490" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587587688169" />
     <state x="531" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1587530264384" />
     <state x="973" y="237" key="Github.CreateGistDialog" timestamp="1587526335827">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="973" y="237" key="Github.CreateGistDialog/0.23.1440.822@0.23.1440.822" timestamp="1587526335827" />
-    <state width="726" height="199" key="GridCell.Tab.0.bottom" timestamp="1587586591389">
+    <state width="662" height="199" key="GridCell.Tab.0.bottom" timestamp="1587651073654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="726" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587586591389" />
+    <state width="662" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587651073654" />
     <state width="803" height="127" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1586119517367" />
     <state width="764" height="106" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1585342621983" />
     <state width="755" height="196" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1587487850916" />
     <state width="724" height="196" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587156846858" />
     <state width="755" height="196" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587412941525" />
     <state width="755" height="23" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1587530177334" />
-    <state width="726" height="199" key="GridCell.Tab.0.center" timestamp="1587586591388">
+    <state width="662" height="199" key="GridCell.Tab.0.center" timestamp="1587651073653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="726" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587586591388" />
+    <state width="662" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587651073653" />
     <state width="803" height="127" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1586119517366" />
     <state width="764" height="106" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1585342621982" />
     <state width="755" height="196" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1587487850915" />
     <state width="724" height="196" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587156846858" />
     <state width="755" height="196" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587412941524" />
     <state width="755" height="23" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1587530177333" />
-    <state width="726" height="199" key="GridCell.Tab.0.left" timestamp="1587586591387">
+    <state width="662" height="199" key="GridCell.Tab.0.left" timestamp="1587651073653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="726" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587586591387" />
+    <state width="662" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587651073653" />
     <state width="803" height="127" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1586119517366" />
     <state width="764" height="106" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1585342621981" />
     <state width="755" height="196" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1587487850915" />
     <state width="724" height="196" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587156846857" />
     <state width="755" height="196" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587412941524" />
     <state width="755" height="23" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1587530177333" />
-    <state width="726" height="199" key="GridCell.Tab.0.right" timestamp="1587586591388">
+    <state width="662" height="199" key="GridCell.Tab.0.right" timestamp="1587651073654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="726" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587586591388" />
+    <state width="662" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587651073654" />
     <state width="803" height="127" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1586119517367" />
     <state width="764" height="106" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1585342621982" />
     <state width="755" height="196" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1587487850916" />
@@ -274,13 +281,15 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="30" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.814@0.23.1440.814" timestamp="1585165921452" />
-    <state x="729" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587529863640">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="729" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587651266648">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="729" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1587651266648" />
     <state x="729" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.825@0.23.1440.825" timestamp="1587529863640" />
-    <state x="441" y="23" width="999" height="816" key="find.popup" timestamp="1587486524585">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="441" y="0" width="999" height="900" key="find.popup" timestamp="1587650837044">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="441" y="0" width="999" height="900" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1587650837044" />
     <state x="441" y="23" width="999" height="812" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1585668204821" />
     <state x="441" y="23" width="999" height="814" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1585064217270" />
     <state x="441" y="23" width="999" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1587486524585" />
