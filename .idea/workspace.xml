@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74764b1a-3f9a-41d7-889e-a27a6c7ea223" name="Default Changelist" comment="">
+    <list default="true" id="74764b1a-3f9a-41d7-889e-a27a6c7ea223" name="Default Changelist" comment="Dates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +195,35 @@
       <option name="project" value="LOCAL" />
       <updated>1587667545956</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Wharmup">
+      <created>1587668993384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587668993384</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Wharmup">
+      <created>1587669041737</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587669041738</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Wharmup">
+      <created>1587669051071</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587669051071</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dates">
+      <created>1587669129560</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587669129560</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +291,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestHAnna" />
     <MESSAGE value="Wharmup_day27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wharmup_day27" />
+    <MESSAGE value="Wharmup" />
+    <MESSAGE value="Dates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="23" width="1000" height="814" key="#Notifications" timestamp="1585058351235">
@@ -284,10 +314,11 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="68" y="125" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1587155931243" />
-    <state x="490" y="0" key="CommitChangelistDialog2" timestamp="1587669050931">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="162" y="23" width="896" height="822" key="CommitChangelistDialog2" timestamp="1587672131842">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="490" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587669050931" />
+    <state x="490" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587669129391" />
+    <state x="162" y="23" width="896" height="822" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1587672131842" />
     <state x="531" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1587530264384" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1587667537692">
       <screen x="0" y="0" width="1440" height="900" />
@@ -376,10 +407,10 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="586" height="453" key="SwitcherDM/0.23.1440.814@0.23.1440.814" timestamp="1585341455297" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1587669061925">
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1587669141242">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587669061925" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587669141242" />
     <state x="695" y="150" width="646" height="487" key="com.intellij.ide.util.TipDialog" timestamp="1587668340383">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -403,6 +434,10 @@
     <state x="441" y="23" width="999" height="814" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1585064217270" />
     <state x="441" y="23" width="999" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1587486524585" />
     <state x="441" y="23" width="999" height="822" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1584108496328" />
+    <state x="0" y="23" width="770" height="822" key="new project wizard" timestamp="1587669989744">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="23" width="770" height="822" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1587669989744" />
     <state x="-26" y="190" key="run.anything.popup" timestamp="1587061285167">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
