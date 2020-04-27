@@ -43,8 +43,33 @@ public class List_MaxMin_Practice2 {
         System.out.println(max2);
 
 
+        ArrayList<Integer> list2 = new ArrayList<>();
+
+        list2.add(205);
+        list2.add(3500);
+        list2.add(440);
+       int max3 =  max(list2);
+        System.out.println(max3);
 
 
 
     }
+
+    public static int max(ArrayList<Integer>list){//returns max number from ArrayList
+        int max = list.get(0);
+        for( int i =0; i< list.size(); i++){
+
+            if(list.get(i)>max){
+
+                max= list.get(i);
+
+            }
+        }
+        return max;
+
+
+    }
+
+
+
 }
