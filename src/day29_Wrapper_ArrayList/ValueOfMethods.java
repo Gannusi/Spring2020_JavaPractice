@@ -1,5 +1,7 @@
 package day29_Wrapper_ArrayList;
 
+import java.util.Arrays;
+
 public class ValueOfMethods {
 
     public static void main(String[] args) {
@@ -48,6 +50,45 @@ public class ValueOfMethods {
         String sh="12345";
         short sh2=Short.valueOf(sh);
         System.out.println(sh2);
+
+
+        String  r1= "true";
+        Boolean t1= Boolean.valueOf(r1);
+
+        boolean t2 =Boolean.valueOf(r1);
+
+        System.out.println(t1);
+        System.out.println(t2);
+
+        System.out.println("============================");
+        int maxNum = Integer.MAX_VALUE;
+        System.out.println( maxNum);
+
+        double maxNum2 =Double.MAX_VALUE;
+        System.out.println(maxNum2);
+
+        int minNum = Integer.MIN_VALUE;
+        System.out.println(minNum);
+
+        byte maxNum3 = Byte.MAX_VALUE;
+        System.out.println(maxNum3);
+
+        byte minNum2 = Byte.MIN_VALUE;
+        System.out.println(minNum2);
+
+     System.out.println("====================================");
+
+     boolean [] arr = new boolean[3];
+     System.out.println(Arrays.toString(arr));
+
+
+     //Character[] arr2 = new Character[3];
+    Integer[] arr2 = new Integer[3];
+     System.out.println(Arrays.toString(arr2));
+
+
+
+
 
 
 
