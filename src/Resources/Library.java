@@ -1,5 +1,6 @@
 package Resources;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Library {
@@ -80,6 +81,21 @@ public class Library {
     }
 
 
+
+    public static int max(ArrayList<Integer> list){//returns max number from ArrayList
+        int max = list.get(0);
+        for( int i =0; i< list.size(); i++){
+
+            if(list.get(i)>max){
+
+                max= list.get(i);
+
+            }
+        }
+        return max;
+
+
+    }
     // Frequency of string
 
     // merge two array and return third one
