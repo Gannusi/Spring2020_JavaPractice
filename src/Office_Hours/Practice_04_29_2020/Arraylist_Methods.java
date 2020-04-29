@@ -69,5 +69,28 @@ public class Arraylist_Methods {
         System.out.println(list2);
 
 
+
+        //  list2: //{A,B,E,F,D}
+        //  0 1 2 3 4
+
+        list2.remove(3); //{A,B,E,D}
+
+        System.out.println(list2);
+
+        // list2: /{A,B,E,D}
+
+        boolean r1 = list2.remove("A");  //{B,E,D}
+        System.out.println(list2);
+
+        System.out.println(r1);
+
+        boolean r2 = list2.remove("Z");
+        System.out.println( r2 );
+
+        list2.clear(); // size: 0
+        System.out.println(list2.size());
+
+        System.out.println(list2);
+
     }
 }
