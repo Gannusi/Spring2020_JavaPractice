@@ -71,5 +71,9 @@ public class Lambda_Expressions {
         System.out.println(nums);
 
 
+        System.out.println("=================================");
+
+        Integer[] arr ={1, 2, 3, 4, 5, 6, 7, 8, 9};
+
     }
 }
