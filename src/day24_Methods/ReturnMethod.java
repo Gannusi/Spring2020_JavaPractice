@@ -5,12 +5,12 @@ import javax.imageio.stream.ImageInputStream;
 public class ReturnMethod {
 
 
-    public static void maxNum(int a, int b) {
+    public static int maxNum(int a, int b) {
 
         if (a>=b){
-            System.out.println(a);
+           return a;
         }else{
-            System.out.println(b);
+            return b;
         }
 
     }
@@ -18,7 +18,8 @@ public class ReturnMethod {
 
     public static void main(String[] args) {
 
-
+      int w =maxNum(10,20);
+        System.out.println(w);
 
       //int a =  maxNum(10, 20);
        int result = Addition(1000, 2000);
