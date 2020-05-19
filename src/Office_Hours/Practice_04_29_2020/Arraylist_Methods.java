@@ -1,8 +1,5 @@
 package Office_Hours.Practice_04_29_2020;
 
-import com.sun.xml.internal.bind.v2.runtime.reflect.Lister;
-import homework.ReplIt.Array;
-
 import java.util.ArrayList;
 
 public class Arraylist_Methods {

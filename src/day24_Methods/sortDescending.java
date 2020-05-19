@@ -1,7 +1,5 @@
 package day24_Methods;
 
-import homework.ReplIt.Array;
-
 import java.util.Arrays;
 
 public class sortDescending {

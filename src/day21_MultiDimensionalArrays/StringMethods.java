@@ -1,7 +1,5 @@
 package day21_MultiDimensionalArrays;
 
-import homework.ReplIt.Array;
-
 import java.util.Arrays;
 
 public class StringMethods {
