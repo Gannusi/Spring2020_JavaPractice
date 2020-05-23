@@ -1,4 +1,4 @@
-package Office_Hours;
+package WarmUp;
 
 public class NestedLoop_Practice {
 
